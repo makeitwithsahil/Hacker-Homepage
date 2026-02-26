@@ -2,7 +2,15 @@
 
 > A professional, dark-themed browser start page built with pure HTML, CSS, and Vanilla JavaScript. No frameworks. No dependencies. Just clean, fast, elegant code.
 
-**Built by [Sahil Maurya](https://github.com/sahilmaurya)**
+**Built by Sahil Maurya** &nbsp;|&nbsp; 🌐 **[Live Demo → hacker-homepage.vercel.app](https://hacker-homepage.vercel.app/)**
+
+---
+
+## 🌐 Live Demo
+
+**[https://hacker-homepage.vercel.app/](https://hacker-homepage.vercel.app/)**
+
+Deployed on Vercel — instant load, globally distributed.
 
 ---
 
